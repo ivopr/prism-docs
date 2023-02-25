@@ -4,8 +4,6 @@ title: "Política de Privacidade"
 permalink: /privacy
 ---
 
-# Política de Privacidade
-
 Esta Política de Privacidade explica como nós, a equipe do aplicativo móvel Prism (doravante referidos como "nós", "nosso" ou "nos"), coletamos, usamos e compartilhamos informações pessoais de usuários (doravante referidos como "você" ou "usuário") que utilizam nosso aplicativo móvel (doravante referido como "aplicativo").
 
 ## Coleta de informações

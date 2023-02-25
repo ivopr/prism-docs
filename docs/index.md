@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prism Docs"
+title: "Prism"
 permalink: /
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Política de Privacidade - Prism Docs"
+title: "Política de Privacidade"
 permalink: /privacy
 ---
 

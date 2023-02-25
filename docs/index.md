@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Prism Docs"
+permalink: /
+---
+
 # Indice
 
 Política de Privacidade do Aplicativo Móvel
